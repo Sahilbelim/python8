@@ -49,11 +49,11 @@ name.append(student_name)
 
 print(name)
 
-num=name.index("harsh")
+num=name.index("deep")
 
 print("index of aliment ",num)
 
-Count =name.count("dishant bhai")
+Count =name.count("shahid")
 
 print("number of name how many time ",Count)
 
@@ -74,8 +74,11 @@ name3=name.copy()
 name3.sort()
 
 print(name3)
-print("line no 73  ")
+print("line no 77  ")
 
 name.clear()
 
 print(name)
+
+list2=[]
+

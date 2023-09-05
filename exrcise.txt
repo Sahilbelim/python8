@@ -1,1 +1,7 @@
+
 print biodata using list .
+
+---------------------------------------------------------05/09/2023------------------------------------------
+write a program to take value from user and add in list after using value calculate sum,subtraction,multiplication ,division.
+
+write a program to take two student details from user and add in tuple and after print details
