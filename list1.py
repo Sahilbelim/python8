@@ -1,11 +1,14 @@
-name=["sahil","harsh","param","darshan23","vasu34","pratham"]
+name=["sahil","harsh ","param","darshan23","vasu34","pratham"]
+
 list1=["45.36","25","belim","85","patel"]
+
 name2=['sahezad ','shahid']
+
 print(name)
 print(list1)
 
 print(name[0])
-print(name[1] *5)
+print(name[1] * 5)
 print(name[2])
 print(name[3])
 print(name[4])
@@ -80,5 +83,6 @@ name.clear()
 
 print(name)
 
-list2=[]
-
+name4="Belim "
+name5="Sahil"
+print(name4+name5)
