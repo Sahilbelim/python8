@@ -1,4 +1,6 @@
+
 tuple1=("sahil",18,45.36,True)
+
 name=("Deep","yagnesh","dishant")
 
 print(tuple1)
