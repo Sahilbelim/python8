@@ -6,3 +6,9 @@ print biodata using list .
 write a program to take value from user and add in list after using value calculate sum,subtraction,multiplication ,division.
 
 write a program to take two student details from user and add in list and after print details
+
+----------------------------13/09/2023------------------------------
+
+write a program to check number is odd .
+
+write a program to check number negetive or not ,if negetive to convert int to possitive 
