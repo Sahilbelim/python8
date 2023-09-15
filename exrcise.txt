@@ -23,5 +23,11 @@ write a program to check given alphabet is vovel or not .
 
 write a program check given year is leap year or not .
 
+-------------------------15/09/2023----------------------------
+
+write a program to print day of month and year.
+
+write a program to find bmi and also check condition .
+condition:  https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167
 
 
