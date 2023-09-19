@@ -59,3 +59,18 @@ units           price  per unit
 >400            5
 also calculate 5% percentage energy charge on total bill amount & display total amount 
 
+
+Check if a character is a vowel or a consonant.
+
+Determine the grade based on a score.
+ marks  grade
+ 85-100  A 
+ 65-84   B 
+ 45-64   C
+ 33-44   D
+ 33 >    F
+
+
+ Check if a triangle is equilateral, isosceles, or scalene. (lenth)
+
+ Check if a number is positive, negative, or zero, and whether it's even or odd.
