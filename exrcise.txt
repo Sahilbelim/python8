@@ -74,3 +74,4 @@ Determine the grade based on a score.
  Check if a triangle is equilateral, isosceles, or scalene. (lenth)
 
  Check if a number is positive, negative, or zero, and whether it's even or odd.
+
