@@ -4,7 +4,7 @@ while i<=5:
     j=1
 
     while j<=i:
-        if(j==1  or i==5 or i==j ):
+        if( i==5  or j==1 or i==j):
             print("* ",end='')
         else:
             print("  ",end='')
@@ -16,9 +16,11 @@ while i<=5:
     i+=1
 
 # ij
+
 # 11
 # 21 22
 # 31 32 33
 # 41 42 43 44
-# 51 52 53 54 55   i==5  
+# 51 52 53 54 55  i==5  
+
 # j==1
