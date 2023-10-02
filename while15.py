@@ -14,3 +14,4 @@ while divider<=stop:
 if divider==number:
     print("it is prime number")
     
+    
