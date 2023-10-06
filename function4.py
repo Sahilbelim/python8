@@ -7,7 +7,6 @@ def Add(n1,n2):
     return add
 
 
-
 number1=int(input("Enter Value of Number 1 "))
 number2=int(input("Enter Value of Number 2 "))
 
