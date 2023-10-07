@@ -120,3 +120,8 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
 5!=5x4x3x2x1 =120
 
+------------------------------------------07/10/2023------------------------------------------
+write program to fimd area of cylinder using function 
+
+
+write program to get 5 stundet name,age and class and then print  using function 
