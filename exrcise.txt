@@ -125,3 +125,45 @@ write program to fimd area of cylinder using function
 
 
 write program to get 5 stundet name,age and class and then print  using function 
+
+
+[
+
+
+    {
+        id:1
+        name:
+        age: 
+        number:
+        Email:
+    },
+    {
+        id:2
+        name:
+        age: 
+        number:
+        Email:
+    },
+     {
+        id:3
+        name:
+        age: 
+        number:
+        Email:
+    },
+     {
+        id:4
+        name:
+        age: 
+        number:
+        Email:
+    }
+     {
+        id:5
+        name:
+        age: 
+        number:
+        Email:
+    }
+
+]
