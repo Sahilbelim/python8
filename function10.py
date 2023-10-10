@@ -5,7 +5,9 @@ single_student={
     'age':0,
     'number':"",
     'Email':""
+
 }
+
 print(single_student)
 
 single_student["name"]="sahil Belim"

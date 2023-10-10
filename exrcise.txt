@@ -167,3 +167,6 @@ write program to get 5 stundet name,age and class and then print  using function
     }
 
 ]
+
+write a program to 10 number ,sum ,avarege,maximum,minimum;
+
