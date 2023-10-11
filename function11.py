@@ -1,15 +1,16 @@
 
-single_student={
+
+data=[]
+def get_UserDetail(num):
+
+    single_student={
     'name':"",
     'age':0,
     'number':"",
     'Email':""
 
-}
+    }   
 
-data=[]
-def get_UserDetail(num):
-    
     for i in range(num):
         print(f"Enter Detaile of Student {i+1}")
         name=input("Enter  name : ")
@@ -20,7 +21,11 @@ def get_UserDetail(num):
         single_student["age"]=age
         single_student["number"]=number
         single_student["Email"]=email
-        data.append(single_student)
+        singledata=(single_student).copy()
+        data.append(singledata)
+        print(data)
+
+    print(data)    
 
 
 def printStudentData():
@@ -40,11 +45,6 @@ number_of_student=int(input("Enter Number of Student : "))
 
 get_UserDetail(number_of_student)
 
+
 printStudentData()
-
-
-
-
-
-
 
