@@ -10,7 +10,6 @@ def Fact(num):
         return 1 
    
 
-
 factorial=Fact(7)   
 
 print(factorial)
