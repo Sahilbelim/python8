@@ -170,3 +170,4 @@ write program to get 5 stundet name,age and class and then print  using function
 
 write a program to 10 number ,sum ,avarege,maximum,minimum;
 
+write a program to print time stamp of from user date: (ex:2005-5-30 ) to till now .
