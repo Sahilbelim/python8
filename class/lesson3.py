@@ -1,6 +1,6 @@
 class student :
 
-    
+    pi=3.1415962 # class Varible 
 
     def __init__(self):
         self.name=input("Enter Value of Name ")
@@ -17,7 +17,7 @@ class student :
         print(f"Email : {self.email}")
 
     def data(self):
-        print(f"Hello {self.Name } ,Your Age is {self.age} ")
+        print(f"Hello {self.name } ,Your Age is {self.age} ")
     
     def get_bmi(self):
         bmi=self.weight/(self.height**2)
@@ -30,13 +30,13 @@ print("Enter Value of Studet 1")
 s1=student()
 
 
-print("Enter Value of Studet 2")
-s2=student()
+# print("Enter Value of Studet 2")
+# s2=student()
 
 
 s1.printdata()
 s1.data()
 s1.get_bmi()
-s2.printdata()
+# s2.printdata()
 
-s2.data()
+# s2.data()
