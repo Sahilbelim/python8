@@ -189,3 +189,12 @@ foot to metere with name
 inch to metere with name
 wight in kg with name 
 
+
+class bmi 
+
+    method bmi 
+
+class meter convert  in foot inch weight 
+
+    method inch to metere 
+    method meter to metere 
