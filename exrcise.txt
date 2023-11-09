@@ -198,3 +198,24 @@ class meter convert  in foot inch weight
 
     method inch to metere 
     method meter to metere 
+
+
+1+(1+2)+(1+2+3)
+
+sum=0
+add=0
+number=0
+
+number=number+1
+
+add=add+number ->1
+sum=sum+add ->
+
+number=number+1// 2
+
+add=add+number //3
+
+sum=sum+add 
+
+
+
