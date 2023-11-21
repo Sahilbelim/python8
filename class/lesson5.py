@@ -3,7 +3,6 @@ class teacher:
         self.name=input("Enter teacher's Name ")
         self.age=int(input("Enter teacher's Age "))
       
-       
     def teach(self):
         print("Teacher can teach")
 
