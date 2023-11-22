@@ -219,3 +219,6 @@ sum=sum+add
 
 
 
+inheritance 
+
+https://www.freecodecamp.org/news/content/images/2021/09/image-73.png
