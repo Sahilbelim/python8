@@ -1,4 +1,5 @@
 # multilevel inheritance 
+
 class principle:
      def __init__(self):
         self.name=input("Enter teacher's Name ")
