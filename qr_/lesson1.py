@@ -1,6 +1,6 @@
 import qrcode
 
-img=qrcode.make("https://www.google.com/")
+img=qrcode.make("https://pypi.org/project/qrcode/")
 
 type(img)
-img.save("qr2.png")
+img.save("qr4.png")
