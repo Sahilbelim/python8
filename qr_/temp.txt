@@ -1,0 +1,25 @@
+formated_html = BeautifulSoup(my_html,'html.parser')
+print(formated_html.prettify())
+
+print(formated_html.p)
+print(formated_html.p.string)
+print(formated_html.find_all('p'))
+
+print(formated_html.find_all('div',{'class':"home-slider-content"}))
+
+formated_html = BeautifulSoup(html,'html.parser')
+print(formated_html.prettify())
+# print(formated_html.find('span',{'class':'font-b color-blue'}))
+price = formated_html.find('span',{'class':'font-b color-blue'}).text
+# price = formated_html.select('span.font-b.color-blue')
+print(price)
+
+from bs4 import BeautifulSoup
+import requests
+
+url = f'''https://vclock.com/time/'''
+html_content = requests.get(url).text
+print(html_content)
+soup = BeautifulSoup(html_content,'html.parser')
+formate_soup = soup.prettify()
+print(soup.find('span',{'id':'lbl-time'}).text)
