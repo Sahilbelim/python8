@@ -33,7 +33,7 @@ QRcode.make()
 
 # adding color to QR code
 QRimg = QRcode.make_image(
-	fill_color="#52D3D8", back_color="white").convert('RGB')
+	fill_color="red", back_color="white").convert('RGB')
 
 # set size of QR code
 pos = ((QRimg.size[0] - logo.size[0]) // 2,
