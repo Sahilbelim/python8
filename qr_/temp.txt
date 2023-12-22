@@ -23,3 +23,14 @@ print(html_content)
 soup = BeautifulSoup(html_content,'html.parser')
 formate_soup = soup.prettify()
 print(soup.find('span',{'id':'lbl-time'}).text)
+
+https://vclock.com/time/
+
+# https://www.ndtv.com/fuel-prices
+# [{'city':'Adilabad','petrol_price':'111.83 ₹/L','diseal':"99.84 ₹/L"}]
+
+https://www.futhead.com/23/players/
+
+https://economictimes.indiatimes.com/wealth/fuelprices/fuel-petrol,citystate-{city}.cms
+
+https://economictimes.indiatimes.com/wealth/fuelprices/fuel-petrol,citystate-gujarat.cms
